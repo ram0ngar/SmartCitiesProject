@@ -21,8 +21,33 @@ export default {
 };
 </script>
 
-<style>
+<style lang="scss">
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+html {
+    font-size: 62.5%;
+    height: 100%;
+}
+body {
+    box-sizing: border-box;
+    height: 100%;
+    margin: 3rem;
+    background-color: #eeeeee;
+}
+
 #app {
     font-family: "Avenir", Helvetica, Arial, sans-serif;
+
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+
+    height: 100%;
 }
 </style>
