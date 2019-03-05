@@ -8,9 +8,9 @@
         </div>
          <div class="landing__text-box">
                 <h1 class="heading-primary">
-                    <span class="heading-primary--main">Nombre de </span>
+                    <span class="heading-primary--main">Natural </span>
                     <span class="heading-primary--sub"
-                        >la pagina</span
+                        >Disasters</span
                     >
                 </h1>
             </div>
